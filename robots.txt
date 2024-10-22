@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yetylane.github.io/yetylane.txt.gz
+Sitemap: https://yetylane.github.io/app/yetylane.txt.gz
+Sitemap: https://yetylane.github.io/assets/yetylane.txt.gz
+Sitemap: https://yetylane.github.io/css/yetylane.txt.gz
+Sitemap: https://yetylane.github.io/includes/yetylane.txt.gz
+Sitemap: https://yetylane.github.io/item/yetylane.txt.gz
+Sitemap: https://yetylane.github.io/src/yetylane.txt.gz
